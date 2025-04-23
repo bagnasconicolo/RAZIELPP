@@ -153,7 +153,7 @@ void NDVIApp::setupUI()
     lblTitle->setStyleSheet("font-size:24px; font-weight:bold;");
     QLabel *lblVersion = new QLabel("NDVI Console v2.2");
     lblVersion->setStyleSheet("font-size:14px;");
-    QLabel *lblClassified = new QLabel("CLASSIFIED");
+    QLabel *lblClassified = new QLabel("");
     lblClassified->setStyleSheet("font-size:14px; color:#ff0000;");
     m_quitBtn = new QPushButton("QUIT", this);
     m_quitBtn->setObjectName("quit");
