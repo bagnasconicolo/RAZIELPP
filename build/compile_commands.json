@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/bagnasco/RAZIELPP/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/bagnasco/RAZIELPP/build/RazielNDVIpp_autogen/include -I/Users/bagnasco/RAZIELPP/include -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -g -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/RazielNDVIpp.dir/RazielNDVIpp_autogen/mocs_compilation.cpp.o -c /Users/bagnasco/RAZIELPP/build/RazielNDVIpp_autogen/mocs_compilation.cpp",
+  "file": "/Users/bagnasco/RAZIELPP/build/RazielNDVIpp_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/RazielNDVIpp.dir/RazielNDVIpp_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/bagnasco/RAZIELPP/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/bagnasco/RAZIELPP/build/RazielNDVIpp_autogen/include -I/Users/bagnasco/RAZIELPP/include -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -g -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/RazielNDVIpp.dir/src/main.cpp.o -c /Users/bagnasco/RAZIELPP/src/main.cpp",
+  "file": "/Users/bagnasco/RAZIELPP/src/main.cpp",
+  "output": "CMakeFiles/RazielNDVIpp.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/bagnasco/RAZIELPP/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/bagnasco/RAZIELPP/build/RazielNDVIpp_autogen/include -I/Users/bagnasco/RAZIELPP/include -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -g -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/RazielNDVIpp.dir/src/CaptureThread.cpp.o -c /Users/bagnasco/RAZIELPP/src/CaptureThread.cpp",
+  "file": "/Users/bagnasco/RAZIELPP/src/CaptureThread.cpp",
+  "output": "CMakeFiles/RazielNDVIpp.dir/src/CaptureThread.cpp.o"
+},
+{
+  "directory": "/Users/bagnasco/RAZIELPP/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/bagnasco/RAZIELPP/build/RazielNDVIpp_autogen/include -I/Users/bagnasco/RAZIELPP/include -iframework /opt/homebrew/opt/qt@5/lib -isystem /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt@5/./mkspecs/macx-clang -isystem /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4 -g -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/RazielNDVIpp.dir/src/NDVIApp.cpp.o -c /Users/bagnasco/RAZIELPP/src/NDVIApp.cpp",
+  "file": "/Users/bagnasco/RAZIELPP/src/NDVIApp.cpp",
+  "output": "CMakeFiles/RazielNDVIpp.dir/src/NDVIApp.cpp.o"
+}
+]

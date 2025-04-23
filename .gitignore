@@ -1,0 +1,12 @@
+# Build artifacts
+/build/
+*.o
+*.obj
+*.log
+
+# macOS
+.DS_Store
+
+# Qt Creator
+*.pro.user
+*.autosave

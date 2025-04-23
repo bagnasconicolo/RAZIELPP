@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+   "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundleName</key>
+    <string>RazielNDVIpp</string>
+    <key>CFBundleExecutable</key>
+    <string>RazielNDVIpp</string>
+
+    <!-- Request standard camera permission -->
+    <key>NSCameraUsageDescription</key>
+    <string>This app requires camera access to capture video for NDVI processing.</string>
+
+    <!-- For Continuity Camera (iPhone as webcam) on macOS -->
+    <key>NSCameraUseContinuityCameraDeviceType</key>
+    <array>
+      <string>ContinuityCamera</string>
+    </array>
+  </dict>
+</plist>
